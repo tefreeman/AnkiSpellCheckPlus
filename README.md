@@ -1,0 +1,2 @@
+# AnkiSpellCheckPlus
+Anki Spell checker
